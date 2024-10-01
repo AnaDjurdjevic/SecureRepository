@@ -1,0 +1,60 @@
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.exe
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.deps.json
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.runtimeconfig.json
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\refint\SecureRepository.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\SecureRepository\obj\Debug\net7.0\ref\SecureRepository.dll
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.exe
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.deps.json
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.runtimeconfig.json
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\refint\SecureRepository.dll
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\SecureRepository\SecureRepository\obj\Debug\net7.0\ref\SecureRepository.dll
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.AssemblyReference.cache
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfoInputs.cache
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfo.cs
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.CoreCompileInputs.cache
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.dll
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\refint\SecureRepository.dll
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.pdb
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.exe
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.deps.json
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.runtimeconfig.json
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.dll
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.pdb
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.genruntimeconfig.cache
+C:\Users\pasag\Downloads\SecureRepository\SecureRepository\obj\Debug\net7.0\ref\SecureRepository.dll
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.exe
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.deps.json
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.runtimeconfig.json
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\bin\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.AssemblyInfo.cs
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.dll
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\refint\SecureRepository.dll
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.pdb
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\SecureRepository.genruntimeconfig.cache
+C:\Users\Korisnik\Downloads\SecureRepository\SecureRepository\SecureRepository\obj\Debug\net7.0\ref\SecureRepository.dll

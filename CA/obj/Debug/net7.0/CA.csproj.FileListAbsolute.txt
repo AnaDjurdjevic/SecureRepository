@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\bin\Debug\net7.0\CA.exe
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\bin\Debug\net7.0\CA.deps.json
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\bin\Debug\net7.0\CA.runtimeconfig.json
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\bin\Debug\net7.0\CA.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\bin\Debug\net7.0\CA.pdb
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\refint\CA.dll
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.pdb
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\CA.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\V semestar\Kriptografija i racunarska zastita\projekat\SecureRepository\CA\obj\Debug\net7.0\ref\CA.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureRepository", "SecureRepository\SecureRepository.csproj", "{F72643F6-2AC9-4245-BC53-16432F3C4ED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CA", "CA\CA.csproj", "{814822DB-51C5-4E86-AB3B-A2C157ACCFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F72643F6-2AC9-4245-BC53-16432F3C4ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72643F6-2AC9-4245-BC53-16432F3C4ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72643F6-2AC9-4245-BC53-16432F3C4ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72643F6-2AC9-4245-BC53-16432F3C4ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814822DB-51C5-4E86-AB3B-A2C157ACCFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814822DB-51C5-4E86-AB3B-A2C157ACCFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814822DB-51C5-4E86-AB3B-A2C157ACCFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814822DB-51C5-4E86-AB3B-A2C157ACCFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A421957-8223-4416-A78D-E0941F255122}
+	EndGlobalSection
+EndGlobal
